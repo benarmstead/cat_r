@@ -1,5 +1,8 @@
 # cat_r
 
+![workflow](https://github.com/benarmstead/cat_r/actions/workflows/rust.yml/badge.svg)
+![workflow](https://github.com/benarmstead/cat_r/actions/workflows/devskim-analysis.yml/badge.svg)
+
 An implementation of cat, written in Rust, and done recursively.
 
 I made this program due to a need to recursively cat through a directory, and its subdirectories.
