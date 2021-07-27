@@ -1,7 +1,7 @@
 use std::fs;
 use std::env;
 use std::path::Path;
-use walkdir::WalkDir
+use walkdir::WalkDir;
 
 fn main() -> std::io::Result<()> {
     let path = env::current_dir()?;
